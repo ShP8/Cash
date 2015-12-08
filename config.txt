@@ -1,0 +1,409 @@
+aapt/stable 5.1.1-1 arm
+ack-grep/stable 2.14 all
+angband/stable 4.0.3 arm
+ant/stable 1.9.6 all
+apr/stable 1.5.2-1 arm
+apr-dev/stable 1.5.2-1 arm
+apr-util/stable 1.5.4 arm
+apr-util-dev/stable 1.5.4 arm
+apt/stable,now 1.1.3-4 arm [installed]
+apt-transport-https/stable 1.1.3-4 arm
+aria2/stable 1.19.2 arm
+asciinema/stable 1.1.1 arm
+autoconf/stable 2.69 arm
+automake/stable 1.15 arm
+bash/stable,now 4.3.42-6 arm [installed]
+bash-completion/stable 2.1 arm
+bc/stable 1.06.95 arm
+binutils/stable,now 2.25 arm [installed]
+binutils-dev/stable 2.25 arm
+bison/stable 3.0.4 arm
+brogue/stable 1.7.4 arm
+bsdtar/stable 3.1.2-2 arm
+busybox/stable,now 1.24.1 arm [installed]
+bzip2/stable,now 1.0.6 arm [installed]
+c-ares/stable 1.10.0-1 arm
+c-ares-dev/stable 1.10.0-1 arm
+ca-certificates/stable,now 20151028-2 all [installed,automatic]
+cboard/stable 0.7.3 arm
+clang/stable 3.7.0 arm
+clang-dev/stable 3.7.0 arm
+cmake/stable 3.3.2 arm
+cmake-curses-gui/stable 3.3.2 arm
+cmatrix/stable 1.2a arm
+command-not-found/stable,now 1.1 arm [installed]
+coreutils/stable,now 8.24-4 arm [installed]
+cppi/stable 1.18 arm
+curl/stable,now 7.46.0 arm [installed]
+curseofwar/stable 1.2.0 arm
+dash/stable,now 0.5.8-3 arm [installed]
+datamash/stable 1.0.7 arm
+dcraw/stable 9.26.0-1 arm
+debianutils/stable,now 4.5.1 arm [installed]
+dialog/stable 1.2-20150920-0 arm
+diffutils/stable,now 3.3 arm [installed]
+direvent/stable 5.0 arm
+dirmngr/stable 2.1.10 arm
+dnsutils/stable,now 9.10.3-5 arm [installed]
+dnsutils-dev/stable 9.10.3-5 arm
+dpkg/stable,now 1.18.3-1 arm [installed]
+dpkg-dev/stable 1.18.3-1 arm
+dropbear/stable 2015.71 arm
+dx/stable 23.0.0 all
+ecj/stable 4.4.2 all
+emacs/stable 24.5-2 arm
+espeak/stable 1.48.04 arm
+espeak-dev/stable 1.48.04 arm
+fftw/stable 3.3.4 arm
+fftw-dev/stable 3.3.4 arm
+figlet/stable 2.2.5 arm
+file/stable,now 5.25-1 arm [installed,automatic]
+file-dev/stable 5.25-1 arm
+finch/stable 2.10.11-1 arm
+finch-dev/stable 2.10.11-1 arm
+findutils/stable,now 4.5.14 arm [installed]
+fish/stable 2.2.201512040457 arm
+flex/stable 2.5.39 arm
+flex-dev/stable 2.5.39 arm
+fontconfig/stable 2.11.1-1 arm
+fontconfig-dev/stable 2.11.1-1 arm
+fontconfig-utils/stable 2.11.1-1 arm
+freetype/stable 2.6.2 arm
+freetype-dev/stable 2.6.2 arm
+frobtads/stable 1.2.3 arm
+frotz/stable 2.44 arm
+g++/stable 4.9.3-5 arm
+gawk/stable 4.1.3-1 arm
+gawk-dev/stable 4.1.3-1 arm
+gcc/stable 4.9.3-5 arm
+gcov/stable 4.9.3-5 arm
+gdb/stable 7.10 arm
+gdb-dev/stable 7.10 arm
+gdbm/stable,now 1.11 arm [installed,automatic]
+gdbm-dev/stable 1.11 arm
+gdk-pixbuf/stable 2.32.1 arm
+gdk-pixbuf-dev/stable 2.32.1 arm
+gifsicle/stable 1.88 arm
+git/stable,now 2.6.3-2 arm [installed]
+glib/stable,now 2.46.2 arm [installed,automatic]
+glib-bin/stable 2.46.2 arm
+glib-dev/stable 2.46.2 arm
+global/stable 6.5 arm
+glulxe/stable 0.5.2 arm
+gnuchess/stable 6.2.2 arm
+gnugo/stable 3.8 arm
+gnupg/stable,now 1.4.19-2 arm [installed]
+gnupg-curl/stable 1.4.19-2 arm
+gnupg2/stable 2.1.10 arm
+gnuplot/stable 4.6.6 arm
+gnushogi/stable 1.4.2 arm
+gnutls/stable,now 3.4.6-1 arm [installed]
+golang/stable 1:1.5.1 arm
+googletest/stable 1.7.0 arm
+googletest-dev/stable 1.7.0 arm
+gpgme/stable 1.6.0-1 arm
+gpgme-dev/stable 1.6.0-1 arm
+graphicsmagick/stable 1.3.23 arm
+graphicsmagick-dev/stable 1.3.23 arm
+greed/stable 4.1 arm
+grep/stable,now 2.22 arm [installed]
+gsl/stable 2.1 arm
+gsl-dev/stable 2.1 arm
+gtypist/stable 2.9.5 arm
+gzip/stable,now 1.6 arm [installed]
+harfbuzz/stable 1.0.6 arm
+harfbuzz-dev/stable 1.0.6 arm
+harfbuzz-utils/stable 1.0.6 arm
+hexcurse/stable,now 1.58 arm [installed]
+ht/stable,now 2.1.0 arm [installed]
+htop/stable,now 1.0.3 arm [installed]
+hunspell/stable 1.3.3 arm
+hunspell-dev/stable 1.3.3 arm
+hunspell-en-us/stable 1.1 arm
+iconv/stable 1.14 arm
+imagemagick/stable 6.9.2-7-0 arm
+imagemagick-dev/stable 6.9.2-7-0 arm
+inetutils/stable,now 1.9.4-1 arm [installed]
+inotify-tools/stable 3.14 arm
+inotify-tools-dev/stable 3.14 arm
+iperf3/stable 3.1 arm
+iperf3-dev/stable 3.1 arm
+irssi/stable 0.8.17 arm
+irssi-dev/stable 0.8.17 arm
+jack/stable 1.1-mr2-1 all
+jhead/stable 3.00 arm
+jq/stable 1.5 arm
+jq-dev/stable 1.5 arm
+jsoncpp/stable 1.6.5 arm
+jsoncpp-dev/stable 1.6.5 arm
+kona/stable 3.36 arm
+ldns/stable,now 1.6.17 arm [installed,automatic]
+ldns-dev/stable 1.6.17 arm
+less/stable,now 481 arm [installed,automatic]
+lftp/stable 4.6.4-1 arm
+libandroid-glob/stable,now 0.2 arm [installed,automatic]
+libandroid-glob-dev/stable 0.2 arm
+libandroid-support/stable,now 10e.4 arm [installed]
+libandroid-support-dev/stable 10e.4 arm
+libarchive/stable 3.1.2-2 arm
+libarchive-dev/stable 3.1.2-2 arm
+libassuan/stable 2.4.2 arm
+libassuan-dev/stable 2.4.2 arm
+libav/stable 11.4-1 arm
+libav-dev/stable 11.4-1 arm
+libbz2/stable,now 1.0.6 arm [installed,automatic]
+libbz2-dev/stable 1.0.6 arm
+libcaca/stable 0.99.beta19 arm
+libcaca-dev/stable 0.99.beta19 arm
+libcairo/stable 1.14.4 arm
+libcairo-dev/stable 1.14.4 arm
+libcairo-gobject/stable 1.14.4 arm
+libcroco/stable 0.6.9 arm
+libcroco-dev/stable 0.6.9 arm
+libcurl/stable,now 7.46.0 arm [installed,automatic]
+libcurl-dev/stable 7.46.0 arm
+libelf/stable 0.161-1 arm
+libelf-dev/stable 0.161-1 arm
+libevent/stable,now 2.0.22 arm [installed,automatic]
+libevent-dev/stable 2.0.22 arm
+libexif/stable 0.6.21 arm
+libexif-dev/stable 0.6.21 arm
+libexpat/stable 2.1.0 arm
+libexpat-dev/stable 2.1.0 arm
+libfaac/stable 1.28 arm
+libfaac-dev/stable 1.28 arm
+libffi/stable,now 3.2.1 arm [installed,automatic]
+libffi-dev/stable 3.2.1 arm
+libgc/stable 7.4.2 arm
+libgc-dev/stable 7.4.2 arm
+libgcrypt/stable 1.6.4-1 arm
+libgcrypt-dev/stable 1.6.4-1 arm
+libgmp/stable,now 6.1.0 arm [installed,automatic]
+libgmp-dev/stable 6.1.0 arm
+libgnustl/stable,now 10e arm [installed]
+libgnutls/stable,now 3.4.6-1 arm [installed,automatic]
+libgnutls-dev/stable 3.4.6-1 arm
+libgpg-error/stable 1.20-1 arm
+libgpg-error-dev/stable 1.20-1 arm
+libidn/stable,now 1.32-1 arm [installed,automatic]
+libidn-dev/stable 1.32-1 arm
+libisl/stable 0.15-1 arm
+libisl-dev/stable 0.15-1 arm
+libjasper/stable 1.900.1-1 arm
+libjasper-dev/stable 1.900.1-1 arm
+libjasper-utils/stable 1.900.1-1 arm
+libjpeg-turbo/stable 1.4.2-1 arm
+libjpeg-turbo-dev/stable 1.4.2-1 arm
+libjpeg-turbo-progs/stable 1.4.2-1 arm
+libksba/stable 1.3.3-1 arm
+libksba-dev/stable 1.3.3-1 arm
+libluajit/stable 2.0.4-1 arm
+libluajit-dev/stable 2.0.4-1 arm
+liblzma/stable,now 5.2.2 arm [installed]
+liblzma-dev/stable 5.2.2 arm
+libmp3lame/stable 3.99 arm
+libmp3lame-dev/stable 3.99 arm
+libmpc/stable 1.0.3-1 arm
+libmpc-dev/stable 1.0.3-1 arm
+libmpfr/stable 3.1.3-1 arm
+libmpfr-dev/stable 3.1.3-1 arm
+libmsgpack/stable 1.2.0 arm
+libmsgpack-dev/stable 1.2.0 arm
+libnettle/stable,now 3.1.1-2 arm [installed,automatic]
+libnettle-dev/stable 3.1.1-2 arm
+libnpth/stable 1.2-1 arm
+libnpth-dev/stable 1.2-1 arm
+libogg/stable 1.3.2 arm
+libogg-dev/stable 1.3.2 arm
+liboggz/stable 1.1.1-1 arm
+liboggz-dev/stable 1.1.1-1 arm
+libopus/stable 1.1 arm
+libopus-dev/stable 1.1 arm
+libpcap/stable,now 1.7.4 arm [installed,automatic]
+libpcap-dev/stable 1.7.4 arm
+libpipeline/stable 1.4.0 arm
+libpipeline-dev/stable 1.4.0 arm
+libpixman/stable 0.32.8 arm
+libpixman-dev/stable 0.32.8 arm
+libpng/stable 1.6.19 arm
+libpng-dev/stable 1.6.19 arm
+librsvg/stable 2.40.11-1 arm
+librsvg-dev/stable 2.40.11-1 arm
+libsqlite/stable,now 3.9.2 arm [installed,automatic]
+libsqlite-dev/stable 3.9.2 arm
+libtermkey/stable 0.18 arm
+libtermkey-dev/stable 0.18 arm
+libtiff/stable 4.0.6-1 arm
+libtiff-dev/stable 4.0.6-1 arm
+libtiff-utils/stable 4.0.6-1 arm
+libtool/stable 2.4.6 arm
+libtool-dev/stable 2.4.6 arm
+libtsm/stable 3-1 arm
+libtsm-dev/stable 3-1 arm
+libunibilium/stable 1.2.0 arm
+libunibilium-dev/stable 1.2.0 arm
+libunistring/stable 0.9.6 arm
+libunistring-dev/stable 0.9.6 arm
+libutil/stable,now 0.2 arm [installed,automatic]
+libutil-dev/stable 0.2 arm
+libuuid/stable,now 1.0.3 arm [installed,automatic]
+libuuid-dev/stable 1.0.3 arm
+libuv/stable 1.7.5 arm
+libuv-dev/stable 1.7.5 arm
+libvorbis/stable 1.3.5 arm
+libvorbis-dev/stable 1.3.5 arm
+libvpx/stable 1.5.0 arm
+libvpx-dev/stable 1.5.0 arm
+libvterm/stable 0.0.201512040443 arm
+libvterm-dev/stable 0.01 arm
+libx264/stable 20141218-2245-0 arm
+libx264-dev/stable 20141218-2245-0 arm
+libxml2/stable 2.9.2-4 arm
+libxml2-dev/stable 2.9.2-4 arm
+libxml2-utils/stable 2.9.2-4 arm
+libxslt/stable 1.1.28-2 arm
+libxslt-dev/stable 1.1.28-2 arm
+lighttpd/stable 1.4.35 arm
+linux-man-pages/stable 4.02 all
+littlecms/stable 2.7-1 arm
+littlecms-dev/stable 2.7-1 arm
+littlecms-utils/stable 2.7-1 arm
+lua/stable 5.3.1 arm
+lua-dev/stable 5.3.1 arm
+luajit/stable 2.0.4-1 arm
+luarocks/stable 2.2.2 arm
+lynx/stable,now 2.8.8rel.2 arm [installed]
+m4/stable 1.4.17 arm
+make/stable 4.1-1 arm
+make-dev/stable 4.1-1 arm
+man/stable,now 1.13.3 arm [installed]
+man-dev/stable 1.13.3 arm
+mc/stable,now 4.8.15-1 arm [installed]
+mlocate/stable 0.26 arm
+moon-buggy/stable 1.0.51 arm
+multitail/stable 6.4.2 arm
+mutt/stable,now 1.5.24 arm [installed]
+nano/stable,now 2.4.2 arm [installed]
+ncdc/stable,now 1.19.1 arm [installed]
+ncdu/stable 1.11 arm
+ncurses/stable,now 5.9.20141206-3 arm [installed]
+ncurses-dev/stable 5.9.20141206-3 arm
+ncurses-ui-libs/stable 5.9.20141206-3 arm
+ncurses-utils/stable 5.9.20141206-3 arm
+ndk-stl/stable 10e arm
+ndk-sysroot/stable 10e-1 arm
+neovim/stable 0.0.201512040443 arm
+netpbm/stable 2654 arm
+netpbm-dev/stable 2654 arm
+nettle/stable 3.1.1-2 arm
+nmap/stable,now 6.49BETA4 arm [installed]
+nodejs/stable 4.2.2 arm
+nodejs-dev/stable 4.2.2 arm
+ocrad/stable 0.25 arm
+ocrad-dev/stable 0.25 arm
+openjpeg/stable 2.1.0 arm
+openjpeg-dev/stable 2.1.0 arm
+openjpeg-tools/stable 2.1.0 arm
+openssh/stable,now 7.1-1 arm [installed]
+openssl/stable,now 1.0.2e arm [installed,automatic]
+openssl-dev/stable 1.0.2e arm
+openssl-tool/stable 1.0.2e arm
+optipng/stable 0.7.5 arm
+pango/stable 1.38.1 arm
+pango-dev/stable 1.38.1 arm
+parallel/stable 20151022 arm
+patch/stable 2.7.5 arm
+pathpicker/stable 0.6.2 arm
+pcre/stable,now 8.37 arm [installed,automatic]
+pcre-dev/stable 8.37 arm
+perl/stable 5.22.0 arm
+php/stable 5.6.15 arm
+php-dev/stable 5.6.15 arm
+pick/stable 1.2.1 arm
+picolisp/stable 15.11-1 arm
+pkg-config/stable 0.29 arm
+play-audio/stable,now 0.2 arm [installed]
+poppler/stable 0.37.0-1 arm
+poppler-dev/stable 0.37.0-1 arm
+procps/stable,now 3.3.10-1 arm [installed]
+procps-dev/stable 3.3.10-1 arm
+protobuf/stable 2.6.1 arm
+protobuf-dev/stable 2.6.1 arm
+psmisc/stable 22.21 arm
+pv/stable 1.6.0 arm
+pwgen/stable 2.07-1 arm
+python/stable,now 3.5.0-5 arm [installed]
+python-dev/stable 3.5.0-5 arm
+python2/stable 2.7.10-6 arm
+python2-dev/stable 2.7.10-6 arm
+ragel/stable 6.9 arm
+ranger/stable,now 1.7.2-1 all [installed]
+readline/stable,now 6.3.8 arm [installed]
+readline-dev/stable 6.3.8 arm
+remind/stable 3.1.15 arm
+rlwrap/stable 0.42 arm
+rsync/stable 3.1.1 arm
+ruby/stable 2.2.3-5 arm
+ruby-dev/stable 2.2.3-5 arm
+ruby-ri/stable 2.2.3-5 all
+sed/stable 4.2.2 arm
+sensible-utils/stable 0.0.9 arm
+serf/stable 1.3.8 arm
+serf-dev/stable 1.3.8 arm
+sharutils/stable 4.15.2 arm
+silversearcher-ag/stable 0.31.0 arm
+sl/stable 5.02 arm
+socat/stable 1.7.3.0 arm
+sox/stable 14.4.2-1 arm
+sox-dev/stable 14.4.2-1 arm
+speex/stable 1.2rc2 arm
+speex-dev/stable 1.2rc2 arm
+sqlite/stable 3.9.2 arm
+sshpass/stable 1.05 arm
+strace/stable,now 4.10-1 arm [installed]
+stunnel/stable 5.27 arm
+subversion/stable 1.9.2 arm
+subversion-dev/stable 1.9.2 arm
+tack/stable 1.07 arm
+tar/stable,now 1.28 arm [installed]
+taskwarrior/stable 2.5.0 arm
+tcl/stable 8.6.4-1 arm
+tcl-dev/stable 8.6.4-1 arm
+tcpdump/stable,now 4.7.4 arm [installed]
+termux-api/stable 0.9 arm
+termux-tools/stable,now 0.12 arm [installed]
+teseq/stable 1.1.1 arm
+tig/stable 2.1.1 arm
+tmux/stable,now 2.1-1 arm [installed]
+toilet/stable 0.3 arm
+tracepath/stable,now 20150815 arm [installed]
+transmission/stable,now 2.84 arm [installed]
+ttyrec/stable 1.0.8-2 arm
+units/stable 2.12 arm
+unnethack/stable 5.1.0 arm
+unrar/stable,now 5.3.2 arm [installed]
+unzip/stable,now 6.0 arm [installed]
+utfdecode/stable 0.3.4 arm
+vim/stable 7.4.947 arm
+vim-python/stable,now 7.4.947 arm [installed]
+vim-runtime/stable,now 7.4.947 all [installed,automatic]
+vttest/stable 20140305 arm
+vtutils/stable 0.5 arm
+w3m/stable 0.5.3 arm
+wcalc/stable 2.5-1 arm
+weechat/stable 1.3-4 arm
+weechat-dev/stable 1.3-4 arm
+weechat-ruby-plugin/stable 1.3-4 arm
+wget/stable,now 1.17 arm [installed]
+x264/stable 20141218-2245-0 arm
+xmlstarlet/stable 1.6.1 arm
+xsltproc/stable 1.1.28-2 arm
+xvidcore/stable 1.3.4 arm
+xvidcore-dev/stable 1.3.4 arm
+xz-utils/stable 5.2.2 arm
+yasm/stable 1.3.0 arm
+yasm-dev/stable 1.3.0 arm
+zile/stable 2.4.11-2 arm
+zip/stable,now 3.0 arm [installed]
+zsh/stable 5.1.1-2 arm
+
