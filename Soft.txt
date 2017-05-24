@@ -1,0 +1,16 @@
+Windows
+---------------------------
+
+
+
+Linux
+---------------------------
+Double Commander - двухпанельный файловый менеджер с потдержкой плагинов TC
+    sudo add-apt-repository ppa:alexx2000/doublecmd
+    sudo apt-get update
+    sudo apt-get install doublecmd-gtk
+    delete: sudo apt-get remove doublecmd-*
+
+
+Android
+---------------------------
