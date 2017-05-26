@@ -10,7 +10,8 @@ Double Commander - двухпанельный файловый менеджер 
     sudo apt-get update
     sudo apt-get install doublecmd-gtk
     delete: sudo apt-get remove doublecmd-*
-
+powertop - монитор потребителей энергии
+iotop - монитор взаимодействия с винтом - ерунда
 
 Android
 ---------------------------
