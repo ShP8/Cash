@@ -15,7 +15,11 @@ iotop - монитор взаимодействия с винтом - ерунд
 git - система контроля версий
 tmux - терминальный мультиплексор
 vim - текстовый процессор
-
+telegram - messager
+    sudo add-apt-repository ppa:atareao/telegram
+    sudo apt update
+    sudo apt install telegram
+    delete: sudo apt purge telegram
 
 Android
 ---------------------------
