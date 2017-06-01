@@ -20,6 +20,10 @@ telegram - messager
     sudo apt update
     sudo apt install telegram
     delete: sudo apt purge telegram
+zRam - скидывает swap в сжатый RAM, вроде ускоряет компьютер
+    sudo apt-get install zram-config
+    смотрим как сконфигурировалось автоматом: swapon -s 
 
+    
 Android
 ---------------------------
