@@ -26,4 +26,6 @@ zRam - скидывает swap в сжатый RAM, вроде ускоряет 
 
     
 Android
----------------------------
+--------------------------
+termux - terminal
+orgzly - orgmod with gui
