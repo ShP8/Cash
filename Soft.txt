@@ -23,9 +23,11 @@ telegram - messager
 zRam - скидывает swap в сжатый RAM, вроде ускоряет компьютер
     sudo apt-get install zram-config
     смотрим как сконфигурировалось автоматом: swapon -s 
-
+python-numpy puthon-scipy puthon-opencv 
     
 Android
 --------------------------
 termux - terminal
 orgzly - orgmod with gui
+google sky map
+
