@@ -24,7 +24,10 @@ zRam - скидывает swap в сжатый RAM, вроде ускоряет 
     sudo apt-get install zram-config
     смотрим как сконфигурировалось автоматом: swapon -s 
 python-numpy puthon-scipy puthon-opencv 
-    
+opevnjre opengdk gephi
+wine
+
+
 Android
 --------------------------
 termux - terminal
