@@ -407,3 +407,4 @@ zile/stable 2.4.11-2 arm
 zip/stable,now 3.0 arm [installed]
 zsh/stable 5.1.1-2 arm
 
+http://24gadget.ru/1161065258-kitayskiy-gadzhet-avtomaticheski-podbiraet-parol-k-iphone-2-foto-video.html
